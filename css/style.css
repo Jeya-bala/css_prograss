@@ -1,0 +1,83 @@
+.box{
+    background: white;    
+    border: 10px solid ghostwhite;
+    padding: 25px;    
+    border-radius: 10px;
+    margin: 20px;
+}
+.gray{
+    
+    width: auto;
+    height: 20px;
+    background-color: rgb(212, 200, 200);
+    border-radius: 5px;
+    margin-bottom: 15px;
+    overflow: hidden;   
+}
+/* .graygreen::after{
+    content: "";
+    width: 25%;
+    height: 20px;
+    display: block;
+    background-color: green;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+   
+} */
+.green{
+    height: 20px;
+    width: 25%;
+    background-color: green;
+}
+
+.blue{
+    width: 50%;
+    height: 20px;
+    background-color:  rgb(31, 203, 238);
+    /* border-radius: 5px;
+    margin-bottom: 15px; */
+}
+/* .blue::after{
+   
+    content: "";
+    width: 50%;
+    height: 20px;
+    display: block;
+    background-color: rgb(31, 203, 238);
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;   
+} */
+
+.yellow{
+    width: 75%;
+    height: 20px;
+    background-color:yellow;
+    /* border-radius: 5px;
+    margin-bottom: 15px; */
+}
+/* .yellow::after{
+    
+    content: "";
+    width: 75%;
+    height: 20px;
+    display: block;
+    background-color: yellow;
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+} */
+.red{
+    width: 100%;
+    height: 20px;
+    background-color:red;
+    /* border-radius: 5px;
+    margin-bottom: 15px; */
+}
+/* .red::after{
+    
+    content: "";
+    width: 100%;
+    height: 20px;
+    display: block;
+    background-color:red;
+    border-radius: 5px;    
+} */
